@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanketmohanty09
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning pytorch 
 - 💞️ I’m looking to collaborate on ML and data science projects
 
 
